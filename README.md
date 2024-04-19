@@ -1,6 +1,5 @@
-<center>
   ![image](https://github.com/REPANAJYOTHIPRAKASH629/Snake_Game/assets/98946604/b6c8a366-b237-46c2-8d46-2cb7a4717775)
-</center>
+<br><br><br>
 
 
 <strong>
