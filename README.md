@@ -1,3 +1,6 @@
+![image](https://github.com/REPANAJYOTHIPRAKASH629/Snake_Game/assets/98946604/b6c8a366-b237-46c2-8d46-2cb7a4717775)
+
+
 <strong>
 Based on the provided code for the Snake game, several concepts have been implemented:
 <br><br><br>
